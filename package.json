@@ -1,0 +1,21 @@
+{
+    "name": "pulse-color-theme",
+    "displayName": "Pulse Color Theme",
+    "description": "Pulse Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pulse Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pulse Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
