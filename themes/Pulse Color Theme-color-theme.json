@@ -902,7 +902,8 @@
 			"name": "variable legacy built-in python",
 			"scope": "variable.legacy.builtin.python",
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#8097ffff",
+				"fontStyle": "italic"
 			}
 		},
 		{
