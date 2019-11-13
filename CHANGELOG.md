@@ -1,4 +1,5 @@
 # Change Log
 
+0.4.0
 
-- Initial release
+- refined Syntax Highlighting for Python and C

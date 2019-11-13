@@ -899,6 +899,13 @@
 			}
 		},
 		{
+			"name": "variable legacy built-in python",
+			"scope": "variable.legacy.builtin.python",
+			"settings": {
+				"foreground": "#c678dd"
+			}
+		},
+		{
 			"name": "pyCs",
 			"scope": "variable.parameter.function.python",
 			"settings": {
