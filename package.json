@@ -3,7 +3,7 @@
     "publisher": "albertshar",
     "displayName": "Pulse Color Theme",
     "description": "Pulse Color Theme",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.39.0"
     },
