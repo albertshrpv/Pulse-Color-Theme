@@ -357,6 +357,83 @@
 			}
 		},
 		{
+			"name": "c source",
+			"scope": "source.c",
+			"settings": {
+				"foreground": "#e9e9e9fd"
+			}
+		},
+		{
+			"name": "storage type c",
+			"scope": "storage.type.built-in.primitive.c",
+			"settings": {
+				"foreground": "#f286c4ff"
+			}
+		},
+		// {
+		// 	"name": "keyword operator c",
+		// 	"scope": "keyword.operator.c,keyword.operator.assignment.c,keyword.operator.assignment.compound.c,keyword.operator.logical.c",
+		// 	"settings": {
+		// 		"foreground": "#c73838fd",
+		// 		"fontStyle": "italic "
+		// 	}
+		// },
+		// {
+		// 	"name": "keyword.operator.assignment.c",
+		// 	"scope": "keyword.operator.assignment.c",
+		// 	"settings": {
+		// 		"foreground": "#c73838fd",
+		// 		"fontStyle": "italic "
+		// 	}
+		// },
+		// {
+		// 	"name": "keyword.operator.assignment.compound.c",
+		// 	"scope": "keyword.operator.assignment.compound.c",
+		// 	"settings": {
+		// 		"foreground": "#c73838fd",
+		// 		"fontStyle": "italic "
+		// 	}
+		// },
+		// {
+		// 	"name": "keyword.operator.logical.c",
+		// 	"scope": "keyword.operator.logical.c",
+		// 	"settings": {
+		// 		"foreground": "#c73838fd",
+		// 		"fontStyle": "italic "
+		// 	}
+		// },
+		// {
+		// 	"name": "keyword operator c",
+		// 	"scope": "keyword.operator.c",
+		// 	"settings": {
+		// 		"foreground": "#c73838fd",
+		// 		"fontStyle": "italic "
+		// 	}
+		// },
+		{
+			"name": "keyword.control.c",
+			"scope": "keyword.control.c",
+			"settings": {
+				"foreground": "#c678ddff",
+				"fontStyle": "italic "
+			}
+		},
+		{
+			"name": "enitity.name.function.c",
+			"scope": "enitity.name.function.c",
+			"settings": {
+				"foreground": "#8097ff",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "c meta block",
+			"scope": "meta.block.c",
+			"settings": {
+				"foreground": "#e9e9e9fd"
+			}
+		},
+		{
 			"name": "support.variable.magic.python",
 			"scope": "support.variable.magic.python",
 			"settings": {
@@ -767,9 +844,9 @@
 		},
 		{
 			"name": "C operator assignment",
-			"scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
+			"scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.assignment.compound.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -881,7 +958,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -1638,7 +1715,7 @@
 			"name": "cs local variable",
 			"scope": "entity.name.variable.local.cs",
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#ffffff"
 			}
 		},
 		{
