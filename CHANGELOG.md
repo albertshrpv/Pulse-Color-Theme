@@ -1,5 +1,5 @@
 # Change Log
 
-0.4.0
+0.5.0
 
 - refined Syntax Highlighting for Python and C
